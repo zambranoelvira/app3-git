@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>21</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>telefonos</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>dribbles</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/galaxy/</ImageTemplate>
+            <ImageTemplateName>Galaxy</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>E:/archivos/Elvira/DAM/Segundo parcial/aplicaciones/app2/imagenes/wowslider.html</PublishFileName>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPath>E:/archivos/Elvira/DAM/Segundo parcial/aplicaciones/app2/imagenes</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#ffffff</TemplateColor>
+            <TemplateFont>Roboto Condensed</TemplateFont>
+            <TemplateName>galaxy</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>F:/archivos/Elvira/DAM/Segundo parcial/aplicaciones/app3/imagenes/programacion_en_java_portada.jpg</url>
+                <title>programacion_en_java_portada</title>
+                <filesize>2141389</filesize>
+            </Image>
+            <Image>
+                <url>F:/archivos/Elvira/DAM/Segundo parcial/aplicaciones/app3/imagenes/programacion_en_java_contraportada.jpg</url>
+                <title>programacion_en_java_contraportada</title>
+                <filesize>1864653</filesize>
+            </Image>
+            <Image>
+                <url>F:/archivos/Elvira/DAM/Segundo parcial/aplicaciones/app3/imagenes/estructura_portada.jpg</url>
+                <title>estructura_portada</title>
+                <filesize>1910349</filesize>
+            </Image>
+            <Image>
+                <url>F:/archivos/Elvira/DAM/Segundo parcial/aplicaciones/app3/imagenes/estructura_contraportada.jpg</url>
+                <title>estructura_contraportada</title>
+                <filesize>1920077</filesize>
+            </Image>
+            <Image>
+                <url>F:/archivos/Elvira/DAM/Segundo parcial/aplicaciones/app3/imagenes/asp_portada.jpg</url>
+                <title>asp_portada</title>
+                <filesize>1887053</filesize>
+            </Image>
+            <Image>
+                <url>F:/archivos/Elvira/DAM/Segundo parcial/aplicaciones/app3/imagenes/asp_contraportada.jpg</url>
+                <title>asp_contraportada</title>
+                <filesize>2136013</filesize>
+            </Image>
+            <Image>
+                <url>F:/archivos/Elvira/DAM/Segundo parcial/aplicaciones/app3/imagenes/mantenimiento_portada.jpg</url>
+                <title>mantenimiento_portada</title>
+                <filesize>2225357</filesize>
+            </Image>
+            <Image>
+                <url>F:/archivos/Elvira/DAM/Segundo parcial/aplicaciones/app3/imagenes/mantenimiento_contraportada.jpg</url>
+                <title>mantenimiento_contraportada</title>
+                <filesize>1734349</filesize>
+            </Image>
+            <Image>
+                <url>F:/archivos/Elvira/DAM/Segundo parcial/aplicaciones/app3/imagenes/java_como_programar_portada.jpg</url>
+                <title>java_como_programar_portada</title>
+                <filesize>2204877</filesize>
+            </Image>
+            <Image>
+                <url>F:/archivos/Elvira/DAM/Segundo parcial/aplicaciones/app3/imagenes/java_como_programar_contraportada.jpg</url>
+                <title>java_como_programar_contraportada</title>
+                <filesize>1873869</filesize>
+            </Image>
+            <Image>
+                <url>F:/archivos/Elvira/DAM/Segundo parcial/aplicaciones/app3/imagenes/comunicacion_redes_computadoras_portada.jpg</url>
+                <title>comunicacion_redes_computadoras_portada</title>
+                <filesize>2227661</filesize>
+            </Image>
+            <Image>
+                <url>F:/archivos/Elvira/DAM/Segundo parcial/aplicaciones/app3/imagenes/comunicacion_redes_computadores_contraportada.jpg</url>
+                <title>comunicacion_redes_computadores_contraportada</title>
+                <filesize>2310221</filesize>
+            </Image>
+            <Image>
+                <url>F:/archivos/Elvira/DAM/Segundo parcial/aplicaciones/app3/imagenes/fundamentos_redes_contraportada.jpg</url>
+                <title>fundamentos_redes_contraportada</title>
+                <filesize>1856589</filesize>
+            </Image>
+            <Image>
+                <url>F:/archivos/Elvira/DAM/Segundo parcial/aplicaciones/app3/imagenes/fundamentos_redes_portada.jpg</url>
+                <title>fundamentos_redes_portada</title>
+                <filesize>2094029</filesize>
+            </Image>
+            <Image>
+                <url>F:/archivos/Elvira/DAM/Segundo parcial/aplicaciones/app3/imagenes/redes_computadora_contraportada.jpg</url>
+                <title>redes_computadora_contraportada</title>
+                <filesize>1875405</filesize>
+            </Image>
+            <Image>
+                <url>F:/archivos/Elvira/DAM/Segundo parcial/aplicaciones/app3/imagenes/redes_computadoras_portada.jpg</url>
+                <title>redes_computadoras_portada</title>
+                <filesize>2109901</filesize>
+            </Image>
+            <Image>
+                <url>F:/archivos/Elvira/DAM/Segundo parcial/aplicaciones/app3/imagenes/visual_portada.jpg</url>
+                <title>visual_portada</title>
+                <filesize>1939789</filesize>
+            </Image>
+            <Image>
+                <url>F:/archivos/Elvira/DAM/Segundo parcial/aplicaciones/app3/imagenes/visual_contraportada.jpg</url>
+                <title>visual_contraportada</title>
+                <filesize>2054477</filesize>
+            </Image>
+            <Image>
+                <url>F:/archivos/Elvira/DAM/Segundo parcial/aplicaciones/app3/imagenes/sistemas_operativos_portada.jpg</url>
+                <title>sistemas_operativos_portada</title>
+                <filesize>1718349</filesize>
+            </Image>
+            <Image>
+                <url>F:/archivos/Elvira/DAM/Segundo parcial/aplicaciones/app3/imagenes/sistemas_operativos_contraportada.jpg</url>
+                <title>sistemas_operativos_contraportada</title>
+                <filesize>1920077</filesize>
+            </Image>
+            <Image>
+                <url>F:/archivos/Elvira/DAM/Segundo parcial/aplicaciones/app3/imagenes/sql_portada.jpg</url>
+                <title>sql_portada</title>
+                <filesize>1712077</filesize>
+            </Image>
+            <Image>
+                <url>F:/archivos/Elvira/DAM/Segundo parcial/aplicaciones/app3/imagenes/sql_contraportada.jpg</url>
+                <title>sql_contraportada</title>
+                <filesize>2020173</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
